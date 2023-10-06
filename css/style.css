@@ -108,6 +108,12 @@ footer {
 
 }
 
+.greeting{
+  margin-top: 110px;
+  color: red;
+  background-color: black;
+}
+
 @media screen and (max-width: 768px) {
   .container-nav {
       flex-direction: column;
